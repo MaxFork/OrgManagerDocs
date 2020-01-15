@@ -1,19 +1,28 @@
 ---
-title: About OrgManager
+title: درباره OrgManager
 ---
 
-OrgManager is an open-source project that aims to provide an invite system for GitHub Organizations, but, what does that really mean?
+سیسم OrgManager یک پروژه اپن سورس و منبع آزاد است که یک امکانی را برای دعوت کاربران به سازمان های گیت هاب را فراهم کرده است.
+اما واقعا به چه معنا است؟
 
-### Open Source
+
+### اپن سورس و منبع باز
 
 > ″Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.″
 
-OrgManager is licensed under the [Mozilla Public License Version 2.0 (MPL)](https://choosealicense.com/licenses/mpl-2.0/). It's a very permisive license made for Open Source projects (It even allows commercial and patent use!). You can get more information about the license in the [license page](https://choosealicense.com/licenses/mpl-2.0/).
+سیستم OrgManager تحت مجوز [Mozilla Public License Version 2.0 (MPL)](https://choosealicense.com/licenses/mpl-2.0/) منتشر شده است.
 
-### Invite system for GitHub Organizations
+این یک مجوز بسیار مجاز برای پروژه های منبع باز است. (این حتی اجازه استفاده تجاری و ثبت اختراع را می دهد!)
 
-I found a problem with the current GitHub Organizations' invite system, and created OrgManager to fix that problem while learning. You can read more in [this article](https://miguelpiedrafita.com/orgmanager/).
+شما می توانید اطلاعات بیشتری در مورد این لایسنس در [اینجا](https://choosealicense.com/licenses/mpl-2.0/) مشاهده کنید.
 
-### Know more
+### سیستم دعوت کاربران به سازمان های گیت هاب
+
+من مشکلی را در سایت فعلی گیت هاب مشاهده کردم و آن هم قابلیت ورود کاربران به سازمان های گیت هاب بود.
+بنابراین این پروژه را ساختم تا این مشکل را در کنار یادگیری حل کنم.
+
+شما می توانید در [این مقاله](https://miguelpiedrafita.com/orgmanager/) بیشتر بدانید.
+
+### مرا بشناسید
 
 I wrote an article about OrgManager on HackerNoon (Medium). If you want to know more about what problem does OrgManager solve, how to use it and how to contribute, I recommend you to go and [read it](https://miguelpiedrafita.com/orgmanager/).
